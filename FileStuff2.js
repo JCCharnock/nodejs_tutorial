@@ -16,6 +16,9 @@ const fs=require('fs');
 //     }
 // });
 
+// gittibngaround
+
+
 fs.readdir('tutenkamen',(err,files)=>{
         if (err) console.log(err);
         else {
