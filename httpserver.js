@@ -37,7 +37,7 @@ var server = http.createServer(function(req, res){
          res.end('<h1>Error 404' + filePath + 'not found </h1>');
          //the end() method sends content of the response to the client
          //and signals to the server that the response has been sent
-         //completely
+         //completely banana
          return;
        }
        res.writeHead(200, {'Content-Type':'text/html'});
