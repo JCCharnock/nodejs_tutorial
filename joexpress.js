@@ -10,7 +10,7 @@ app.get("/", (req, res) => {
 app.listen(3000);
 
 // app.get("/example", (req, res) => {
-//   res.send("hitting example");
+//   res.send("hitting apples");
 // });
 
 // app.get('/example/:name/:age', (req, res) => {
