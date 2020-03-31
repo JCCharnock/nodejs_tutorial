@@ -1,5 +1,6 @@
 // const http = require("http");
-// const fs = require("fs");
+// commented out by mistake
+const fs = require("fs");
 // const server = http
 //   .createServer((req, res) => {
 //     res.write(
@@ -14,6 +15,8 @@
 //     res.end();
 //   })
 //   .listen(3000);
+
+
 
 // //listen on port 3000
 
